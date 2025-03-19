@@ -1,4 +1,4 @@
-val nums = Array(1,22,3,2,-43,55,-6,89)
+val nums = Array(1,22,3,2,-43,55,-6,89,90)
 
 nums.map(x=>x*x)
 //for(x<- nums) yield x*x
