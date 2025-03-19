@@ -1,8 +1,8 @@
-val nums = Array(1,22,3,2,-43,55,-6,89,90,91)
+val nums = Array(1,22,3,2,-43,55,-6,89,90)
 
 nums.map(x=>x*x)
 //for(x<- nums) yield x*x
-val names = Array("venu ","satya","priya","prakash","ashish)
+val names = Array("venu katragadda","satya","priya","prakash")
 names.map(x=>x.toUpperCase())
 //for(x<-names) yield x.toUpperCase
 // what is map?
